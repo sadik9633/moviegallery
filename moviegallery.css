@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+h2{
+    text-align: center;
+    color: gray;
+}
+div{
+width:16%;
+height: 480px;
+border: white 2px solid;
+color: white;
+padding: 10px;
+float: left;
+position: relative;
+border-radius: 10px;
+border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px 20px red inset;
+
+}
+h5{
+    text-align: center;
+}
+.rating{
+    width: 70%;
+    height: 1px;
+    border: 1px white solid;
+    text-align: center;
+    position: absolute;
+    left:20px;
+    background-color: rgb(217, 214, 214);
+    border: 1px solid;
+    box-shadow: 2px 4px rgb(204, 158, 158);
+}
+.ratingp{
+    margin-top: -8px;
+    color: black;
+}
+img{
+    width: 100%;
+    height: 200px;
+}
+p{
+    font-size: 14px;
+    margin-left: 5px;
+}
+.d1,.d2,.d3,.d4{
+    margin-left: 29px;
+}
